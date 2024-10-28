@@ -1,34 +1,4 @@
-# PAGES
-
-    / - Главная страница
-    /brands - Портфель Брендов
-    /brands/[brand] - Бренды продукта
-    /brands/[brand]/[products] - Списки товаров бренда
-    /brands/[brand]/[products]/[product] - Карточка товара
-    /cocktails - Коктейли
-    /cocktails/[cocktail] - Карточка коктейля
-    /career - Карьера
-    /career/[vacancy] - Карточка вакансии
-    /news - Новости
-    /news/[article] - Карточка новости
-    /documents - Документация
-    /contacts - контакты
-    /shops - ФИРМЕННЫЕ МАГАЗИНЫ "СОРДИС" (ФРАНШИЗА)
-    /search - ПОИСК
-    /team - команда
-    /charity - благотворительность
-    /distributors - Дистрибьюторам и торговым сетям
-    /export - Экспорт 
-    /page/[id] - текстовая страница
-
-    Без api: 
-    /history - история завода + с метатегом
-    /about - о компании СОРДИС + с метатегом
-    /technology - Технология производства + с метатегом
-    /excursion - Экскурсия по заводу + с метатегом
-    /rental-clients - Розничным клиентам + с метатегом
-
-
+# Structure
 
 
 # Nuxt 3 Minimal Starter
